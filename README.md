@@ -13,7 +13,7 @@
 6. Running Server using Command `php artisan serve`
 7. Done.
 
-#### Test Endpoint
+#### Test Endpoint API
 - GET All   : `http://127.0.0.1:8000/api/mahasiswa`
 - GET by id : `http://127.0.0.1:8000/api/mahasiswa/{id}`
 - POST      : `http://127.0.0.1:8000/api/mahasiswa/`
