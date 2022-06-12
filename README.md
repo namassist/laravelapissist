@@ -14,8 +14,8 @@
 7. Done.
 
 #### Test Endpoint
-- GET ALL : `http://127.0.0.1:8000/api/mahasiswa`
-- GET By ID : `http://127.0.0.1:8000/api/mahasiswa/{id}`
-- POST : `http://127.0.0.1:8000/api/mahasiswa/`
-- PUT : `http://127.0.0.1:8000/api/mahasiswa/{id}`
-- DELETE : `http://127.0.0.1:8000/api/mahasiswa/{id}`
+- GET All   : `http://127.0.0.1:8000/api/mahasiswa`
+- GET by id : `http://127.0.0.1:8000/api/mahasiswa/{id}`
+- POST      : `http://127.0.0.1:8000/api/mahasiswa/`
+- PUT       : `http://127.0.0.1:8000/api/mahasiswa/{id}`
+- DELETE    : `http://127.0.0.1:8000/api/mahasiswa/{id}`
